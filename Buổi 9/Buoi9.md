@@ -9,7 +9,7 @@
 ##### 1. ĐN: 
 - Trong Java, Ngoại lệ là một sự kiện không mong muốn hoặc không mong muốn, xảy ra trong quá trình thực thi chương trình, tức là tại thời điểm chạy, *nó làm gián đoạn luồng bình thường của các lệnh của chương trình*. Các trường hợp ngoại lệ có thể được chương trình bắt và xử lý. 
 - Khi một ngoại lệ xảy ra trong một phương thức, nó sẽ **tạo ra một đối tượng**. Đối tượng này được gọi là **đối tượng ngoại lệ**. Nó chứa thông tin về ngoại lệ, chẳng hạn như tên và mô tả ngoại lệ và trạng thái của chương trình khi ngoại lệ xảy ra.
-     - VD: khi ta muốn nhập 1 số nguyên n nhưng nhập nhầm ký tự: ![alt text](image.png)
+     - VD: khi ta muốn nhập 1 số nguyên n nhưng nhập nhầm thành ký tự: ![alt text](image.png)
 ##### 2 Những lý do chính gây ngoại lệ: 
    - Đầu vào của người dùng không hợp lệ
    - Lỗi thiết bị
